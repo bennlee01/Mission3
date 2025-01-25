@@ -1,0 +1,14 @@
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/bin/Debug/net8.0/Mission3
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/bin/Debug/net8.0/Mission3.deps.json
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/bin/Debug/net8.0/Mission3.runtimeconfig.json
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/bin/Debug/net8.0/Mission3.dll
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/bin/Debug/net8.0/Mission3.pdb
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.AssemblyInfoInputs.cache
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.AssemblyInfo.cs
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.csproj.CoreCompileInputs.cache
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.dll
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/refint/Mission3.dll
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.pdb
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.genruntimeconfig.cache
+/Users/benjaminlee/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/ref/Mission3.dll
